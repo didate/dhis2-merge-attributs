@@ -1,0 +1,6 @@
+{
+    "dhis2": {
+        "baseUrl": "https://play.dhis2.org/dev/api/33",
+        "token": "Basic base64"
+    }
+}

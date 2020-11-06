@@ -1,0 +1,24 @@
+{
+  "name": "dhis2-classification",
+  "version": "1.0.0",
+  "description": "Classification finale covid 19",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "keywords": [
+    "dhis2",
+    "covid",
+    "guinea"
+  ],
+  "author": "didate",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "config": "^3.3.1",
+    "csv-parser": "^2.3.3"
+  },
+  "devDependencies": {}
+}
