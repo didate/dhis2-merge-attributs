@@ -1,8 +1,7 @@
-# DHIS 2 COVID CLASSIFICATION FINALE
-
+## DHIS 2 COVID MERGE ATTRIBUTS
 Ce script est utilisé pour aider à le merge des attributs dans le dhis 2 covid.
 
-#3 ETAPES
+### ETAPES
 
 * Mise en place du script :
 Ce script a été écrit en nodejs, par consequent la machine qui doit l'executer doit avoir nodejs 12+ installé
